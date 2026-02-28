@@ -30,27 +30,59 @@ The primary objectives of this project are:
 * How can marketing teams optimize budget allocation?
 * Can predictive modeling improve targeting efficiency?
 
----
 
 ---
 
-## 📈 Visual Insights
+# 📊 Power BI Dashboard 
 
-### Platform Performance Comparison
+To complement the statistical analysis, an interactive **Power BI dashboard** was developed to visualize and compare the performance of Facebook and Google AdWords marketing campaigns.
 
-![Facebook vs AdWords Performance](charts/click-conversion.png)
+The dashboard enables dynamic exploration of campaign metrics, cost efficiency, and conversion performance using interactive slicers and cross-filtering capabilities.
 
-### Conversion Rate Distribution
+---
 
-![Conversion Rate Analysis](charts/facebook-adwords.png)
 
-### Facebook monthly conversions
+## 📈 Dashboard Features
 
-![Facebook monthly conversions](charts/montly.png)
+✔ Multi-page interactive report  
+✔ KPI comparison across Facebook and AdWords  
+✔ Conversion funnel analysis  
+✔ Cost and performance efficiency metrics  
+✔ Time-series trend visualization  
+✔ Dynamic filters for date and cost analysis  
+✔ Cross-filtering across visuals  
 
+The PBIX file included in this repository contains a fully interactive dashboard.
+
+---
+
+## 📑 Dashboard Pages
+
+### Executive Overview
+
+Provides a high-level comparison of campaign performance with KPIs, funnels, and cost insights.
+
+![Executive Overview](DashBoard/page-1.png)
+
+---
+
+### Channel Performance Analysis
+
+Focuses on engagement metrics, cost efficiency, and marketing effectiveness indicators.
+
+![Channel Performance](DashBoard/page-2.png)
+
+---
+
+### Trends & Insights
+
+Shows time-based performance patterns across views, clicks, conversions, and cost.
+
+![Trends and Insights](DashBoard/page-3.png)
 
 
 ---
+
 
 ## 📂 Dataset Description
 
@@ -103,7 +135,7 @@ The project follows a complete **data analytics lifecycle**:
 ### 6️⃣ Business Insights & Recommendations
 
 * ROI-focused platform optimization strategies
-
+---
 
 
 ## 🔍 Key Insights
@@ -124,7 +156,7 @@ The project follows a complete **data analytics lifecycle**:
 * Use audience segmentation to personalize campaigns
 * Monitor campaign KPIs through dashboards for real-time decision-making
 
-
+---
 
 ## 🛠️ Technologies Used
 
